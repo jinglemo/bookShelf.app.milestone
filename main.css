@@ -1,0 +1,71 @@
+
+nav .links{
+   display: flex;
+   justify-content: space-evenly; 
+}
+body {
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/QIAQ9Rd/videoblocks-world-book-day-celebration-with-books-and-lettering-4k-video-animated_s-rx32-pi_thumbnail-1080_01.png);
+    background-size: contain;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 3px;
+}
+ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    list-style-type: none;
+}
+
+
+
+
+/* .commentbtn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+} */
+
+/* body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+h1 {
+    display: flex;
+    justify-content: center;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    justify-content: space-between ;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 3px;
+} */
